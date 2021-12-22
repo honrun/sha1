@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1637984032 source:e:\debug project\c\sha1_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"sha1.h"
+
+1637120990 e:\debug project\c\sha1_test\sha1.h
+	<stddef.h>
+	<stdint.h>
+
+1637984065 source:e:\debug project\c\sha1_test\sha1.c
+	<stdint.h>
+	<string.h>
+	"sha1.h"
+
